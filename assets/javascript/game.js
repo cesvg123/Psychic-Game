@@ -50,18 +50,3 @@ var computerGuessed = [];
 
 }
 
-
-// function newFunction() {
-//     return "<p> Guess the Letter?</p>";
-// }
-// // var isDuplicate = false;
-// for (var i = 0; i < userAnswers.length; i++) { //for every previous answer
-//     if (currentAnswer == userAnswers[i]) { //check if the current answer is a previous one
-//         isDuplicate = true;
-//         break; //exit loop
-//     }
-// }
-// if (!isDuplicate) { //different than previous
-//     userAnswers[userAnswers.length] = currentAnswer;
-//     //do other code here
-// }
